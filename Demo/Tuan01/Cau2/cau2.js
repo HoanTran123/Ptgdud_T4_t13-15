@@ -17,4 +17,5 @@ if(BMIMark > BMIJoin){
     console.log("BMI của Mark :" + BMIMark + "  cao hơn của Join :" + BMIJoin)
 }else{
     console.log("Join có  BMI cao hơn Mark ")
+    
 }
